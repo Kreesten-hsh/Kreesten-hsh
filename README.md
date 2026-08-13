@@ -4,8 +4,7 @@
     <img src="https://www.gitskins.com/api/section/hero?username=Kreesten-hsh&theme=github-dark" alt="Kreesten-hsh hero section" />
   </picture>
 </p>
-## About Me
-Shapes the short profile story and positioning.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Kreesten-hsh&theme=github-dark&mode=light" />
@@ -27,8 +26,7 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Kreesten-hsh&theme=github-dark&mode=light" />
