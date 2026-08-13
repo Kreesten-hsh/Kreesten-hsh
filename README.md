@@ -1,43 +1,57 @@
+# Kreesten-hsh
+
+> Maintainer credibility and contributor clarity.
+
+**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
+
+## Header
+> Editing this section in the inspector.
+Hi, I'm **Kreesten-hsh**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Kreesten-hsh&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=Kreesten-hsh&theme=github-dark" alt="Kreesten-hsh hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Kreesten-hsh&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Kreesten-hsh&theme=neon" alt="Kreesten-hsh hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Kreesten-hsh&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Kreesten-hsh&theme=neon" alt="Kreesten-hsh about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Kreesten-hsh&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Kreesten-hsh&theme=neon" alt="Kreesten-hsh stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **Neon** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Kreesten-hsh&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Kreesten-hsh&theme=neon" alt="Kreesten-hsh stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Kreesten-hsh&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Kreesten-hsh&theme=neon" alt="Kreesten-hsh projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Kreesten-hsh&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Kreesten-hsh&theme=neon" alt="Kreesten-hsh social section" />
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Kreesten-hsh&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=Kreesten-hsh&theme=github-dark" alt="Kreesten-hsh about section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Kreesten-hsh&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Kreesten-hsh&theme=github-dark" alt="Kreesten-hsh stack section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Kreesten-hsh&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=Kreesten-hsh&theme=github-dark" alt="Kreesten-hsh projects section" />
-  </picture>
-</p>
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Kreesten-hsh&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=Kreesten-hsh&theme=github-dark" alt="Kreesten-hsh stats section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Kreesten-hsh&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=Kreesten-hsh&theme=github-dark" alt="Kreesten-hsh social section" />
-  </picture>
-</p>
-
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
